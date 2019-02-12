@@ -1,1 +1,9 @@
-{ "color": "green", "message": "It's going to be sunny tomorrow! (yey)", "notify": false, "message_format": "text" }
+{
+  "posts": [
+    { "color": "green", "message": "It's going to be sunny tomorrow! (yey)", "notify": false, "message_format": "text" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
