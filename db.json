@@ -1,6 +1,7 @@
 {
   "posts": [
-    { "id":1, "color": "green", "message": "It's going to be sunny tomorrow! (yey)", "notify": false, "message_format": "text" }
+    { "id":1, "color": "green", "message": "It's going to be sunny tomorrow! (yey)", "notify": false, "message_format": "text" },
+    { "id":2, "color": "green", "message": "It's going to be sunny tomorrow! (yey)", "notify": false, "message_format": "text" }
   ],
   "profile": {
     "name": "typicode"
